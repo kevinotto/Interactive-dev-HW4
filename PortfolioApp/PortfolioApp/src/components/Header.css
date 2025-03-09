@@ -1,0 +1,16 @@
+.header{
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  .header a {
+    color: white;
+  }

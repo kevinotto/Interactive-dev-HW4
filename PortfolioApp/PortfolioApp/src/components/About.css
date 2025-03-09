@@ -1,0 +1,16 @@
+.about{
+    background-color: gray;
+    color: white;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.about ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  .about a {
+    color: white;
+  }
