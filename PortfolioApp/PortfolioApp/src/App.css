@@ -70,3 +70,28 @@ section {
   height: auto;
   border-radius: 10px;
 }
+
+.music-button {
+  position: fixed;
+  bottom: 20px;
+  right: 80%;
+  padding: 10px 15px;
+  background-color: #8383836b;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.music-button:hover {
+  background-color: darkgreen;
+}
+
+.song-name{
+  position: fixed;
+  bottom: 95px;
+  right: 78.5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: small;
+}

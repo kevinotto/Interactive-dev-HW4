@@ -63,8 +63,4 @@ const Projects = () => {
 
 };
 
-<aside className="gif-container">
-  <img src="/Project images/skeleton plant music.gif" alt="Animated GIF" className="gif" />
-</aside>
-
 export default Projects;
